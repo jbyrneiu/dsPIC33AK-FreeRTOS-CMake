@@ -1,0 +1,6 @@
+C:/MicroChip/Projects/FreeRTOS_Blinky/FreeRTOS_Blinky/_build/FreeRTOS_Blinky/default/CMakeFiles/FreeRTOS_Blinky_default_default_XC_DSC_assemblePreproc.dir
+C:/MicroChip/Projects/FreeRTOS_Blinky/FreeRTOS_Blinky/_build/FreeRTOS_Blinky/default/CMakeFiles/FreeRTOS_Blinky_default_default_XC_DSC_compile.dir
+C:/MicroChip/Projects/FreeRTOS_Blinky/FreeRTOS_Blinky/_build/FreeRTOS_Blinky/default/CMakeFiles/FreeRTOS_Blinky_default_image_gsUA6xJa.dir
+C:/MicroChip/Projects/FreeRTOS_Blinky/FreeRTOS_Blinky/_build/FreeRTOS_Blinky/default/CMakeFiles/FreeRTOS_Blinky_default_Bin2Hex.dir
+C:/MicroChip/Projects/FreeRTOS_Blinky/FreeRTOS_Blinky/_build/FreeRTOS_Blinky/default/CMakeFiles/edit_cache.dir
+C:/MicroChip/Projects/FreeRTOS_Blinky/FreeRTOS_Blinky/_build/FreeRTOS_Blinky/default/CMakeFiles/rebuild_cache.dir

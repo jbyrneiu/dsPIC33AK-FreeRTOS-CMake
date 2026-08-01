@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/MicroChip/Projects/FreeRTOS_Blinky/FreeRTOS_Blinky/_build/FreeRTOS_Blinky/default/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
